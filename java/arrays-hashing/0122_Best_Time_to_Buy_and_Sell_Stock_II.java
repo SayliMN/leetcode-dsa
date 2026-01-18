@@ -14,6 +14,8 @@ class Solution {
     }
 }
 
+// O(n), O(1)
+
 class Main {
     public static void main(String[] args) {
         Solution sol = new Solution();
